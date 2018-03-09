@@ -1,0 +1,10 @@
+C:\Users\sambits\documents\visual studio 2010\projects\BigDecimal\BigDecimal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sambits\documents\visual studio 2010\projects\BigDecimal\BigDecimal\bin\Debug\BigDecimal.exe
+C:\Users\sambits\documents\visual studio 2010\projects\BigDecimal\BigDecimal\bin\Debug\BigDecimal.pdb
+C:\Users\sambits\documents\visual studio 2010\projects\BigDecimal\BigDecimal\obj\x86\Debug\BigDecimal.exe
+C:\Users\sambits\documents\visual studio 2010\projects\BigDecimal\BigDecimal\obj\x86\Debug\BigDecimal.pdb
+D:\sambits\VSProjects\BigDecimal\BigDecimal\obj\x86\Debug\BigDecimal.exe
+D:\sambits\VSProjects\BigDecimal\BigDecimal\obj\x86\Debug\BigDecimal.pdb
+D:\sambits\VSProjects\BigDecimal\BigDecimal\bin\Debug\BigDecimal.exe
+D:\sambits\VSProjects\BigDecimal\BigDecimal\bin\Debug\BigDecimal.pdb
+D:\sambits\VSProjects\BigDecimal\BigDecimal\obj\x86\Debug\ResolveAssemblyReference.cache
